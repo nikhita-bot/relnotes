@@ -1,4 +1,6 @@
 # Release Notes
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Frelnotes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Frelnotes?ref=badge_shield)
+
 A lightweight release notes UI to help users keep track of the ever-changing codebase for Kubernetes.
 
 ## Development
@@ -61,3 +63,6 @@ In no particular order:
 * Add support for viewing "alpha" and "beta" release notes, though disabled by default.
 * Highlight labels that are selected.
 * Rewrite relationship between "options" and "notes"
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Frelnotes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Frelnotes?ref=badge_large)
